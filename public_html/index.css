@@ -1,0 +1,28 @@
+label {
+  color: darkgray;  
+}
+
+
+.msgShowClass{
+  position: fixed;
+  width: 100%;
+  height: 70%;  
+  top: 0;
+  background-color: lightgreen;
+}
+
+.msgSendClass {
+  position: fixed;
+  width: 100%;
+  height: 30%;
+  bottom: 0;
+  background-color: darkgreen;
+  
+}
+
+.rowClass{
+  padding: 10px;
+}
+
+
+
