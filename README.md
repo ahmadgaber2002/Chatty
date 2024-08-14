@@ -2,9 +2,6 @@
 
 Chatty is a simple real-time chat application that allows users to send and receive messages. The application is built using Node.js, Express, and MongoDB for the backend, and utilizes a basic HTML/CSS/JavaScript front-end.
 
-## Project Structure
-
-The project is structured as follows:
 
 ## 📊 Project Structure
 
